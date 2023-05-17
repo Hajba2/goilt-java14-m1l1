@@ -1,4 +1,6 @@
 git init -> створення(ініціалізація) нового репо
 git status -> для перевірки наявних змін
 git add filename.txt -> для додавання файлу в stagging area
+git add . -> додає всі файли в stagging area
 git commit -m "commit message" -> закомітити зміни в репо 
+git log -> показує історію комітів
