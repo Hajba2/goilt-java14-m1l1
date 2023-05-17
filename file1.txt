@@ -5,4 +5,5 @@ git add . -> додає всі файли в stagging area
 git commit -m "commit message" -> закомітити зміни в репо 
 git log -> показує історію комітів
 git checkout <hash> -> перейти на певний коміт
-git giff <hash1> <hash2> filename.txt -> переглянути зміни між версіями файлу 
+git giff <hash1> <hash2> filename.txt -> переглянути зміни між версіями файлу
+changes from intellij
